@@ -24,13 +24,13 @@ Dataset bao gồm:
 
 ## 2. Thông tin Tổng quan về Dataset
 
-### 2.1. Dataset trước khi làm sạch ([data-vn-express.clean.csv](./data-vn-express.clean.csv))
+### 2.1. Dataset sau khi làm sạch ([data-vn-express.raw.csv](./data-vn-express.raw.csv)) 
 
 - **Tổng số mẫu**: 45,600
 - **Số lượng nhãn chính**: 22
 - **Số lượng nhãn phụ**: 108
 
-### 2.2. Dataset sau khi làm sạch ([data-vn-express.raw.csv](./data-vn-express.raw.csv))
+### 2.2. Dataset trước khi làm sạch ([data-vn-express.clean.csv](./data-vn-express.clean.csv))
 
 - **Tổng số mẫu**: 43,777
 - **Số lượng nhãn chính**: 21
